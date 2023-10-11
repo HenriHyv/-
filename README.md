@@ -1,12 +1,12 @@
-# Free choice extra assignment bundle E
-## Pilvipalvelu kurssin lisätehtävä 
-### **Mitä minun pitää tehdä ?**
+
+# Pilvipalvelu kurssin lisätehtävä 
+## **Bundle E**
 
 
 
 
-Tässä tehtävässä onm tarkoitus tehdä staattinen webbisivusto käyttäen markdown elementtejä.
-Markdown on hmtl:ää, mutta eri tavalla tehtynä.
+Tässä tehtävässä onm tarkoitus tehdä staattinen webbisivusto käyttäen kourallinen määrä markdown elementtejä.
+
 
  Eri elementit mitä on tarkoitus käyttää voivat	<sub> olla:
 
@@ -15,7 +15,16 @@ Markdown on hmtl:ää, mutta eri tavalla tehtynä.
 * eri ~~tekstityylit~~
 * kuva 
 * **Korostettu teksti**
-* 
+
+
+*
+### Mitä markdown on?
+Markdown ja HTML ovat molemmat merkintäkieltä. Markdownia käytetään yleensä kevyeen muotoiluun, vaikka asiakirjoille. Se on suunniteltu helppokäytettäväksi ja luettavaksi, sekä sen voi muuntaa HTML:ksi.
+
+>"Markdown is the ideal format for writing for the web: it's simple, readable, and versatile." — _Tom Preston-Werner (Co-founder of GitHub_)
+
+
+<br>Linkki minun henkilökohtaiseen [Githubiin](https://github.com/HenriHyv)
 
 <br> 
 <br> 
@@ -34,4 +43,4 @@ Markdown on hmtl:ää, mutta eri tavalla tehtynä.
 
 
 
-Tein tämän sivun käyttäen [GitHub Pages](https://pages.github.com/).
+Tein tämän sivun käyttäen [GitHub Pages](https://pages.github.com/). <br>
