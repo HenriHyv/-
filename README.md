@@ -1,8 +1,7 @@
 # Pilvipalvelu kurssin lisätehtävä 
 ## **Bundle E**
 
-
-
+<link rel="stylesheet" type="text/css" href="style.css">
 
 Tässä tehtävässä onm tarkoitus tehdä staattinen webbisivusto käyttäen kourallinen määrä markdown elementtejä.
 
@@ -15,13 +14,15 @@ Tässä tehtävässä onm tarkoitus tehdä staattinen webbisivusto käyttäen ko
 * kuva 
 * **Korostettu teksti**
 
+<br>
+<br>
 
-*
 ### Mitä markdown on?
 Markdown ja HTML ovat molemmat merkintäkieltä. Markdownia käytetään yleensä kevyeen muotoiluun, vaikka asiakirjoille. Se on suunniteltu helppokäytettäväksi ja luettavaksi, sekä sen voi muuntaa HTML:ksi.
 
 >"Markdown is the ideal format for writing for the web: it's simple, readable, and versatile." — _Tom Preston-Werner (Co-founder of GitHub_)
 
+<br>
 
 <br>Linkki minun henkilökohtaiseen [Githubiin](https://github.com/HenriHyv)
 
